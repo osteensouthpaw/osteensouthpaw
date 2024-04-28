@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omega Osteen</h1>
-<h3 align="center">I'm a Sotware Engineer dirven by a passion for developing robust and scalable backend solutions. I am eager to contribute to the advancement of technology both with a strong foundation in software engineering principles and a commitment to staying updated with industry trends.</h3>
+<h3 align="center">I'm a Sotware Engineer driven by a passion for developing robust and scalable backend solutions. I am eager to contribute to the advancement of technology both with a strong foundation in software engineering principles and a commitment to staying updated with industry trends.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osteensouthpaw" alt="osteensouthpaw" /></a> </p>
 
