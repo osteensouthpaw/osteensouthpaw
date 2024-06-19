@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osteensouthpaw" alt="osteensouthpaw" /></a> </p>
 
-- 🔭 I’m currently working on [simple ecommerce backend system](https://github.com/osteensouthpaw/simple-ecommerce-application)
-
-- 🌱 I’m currently learning **backend development with spring boot**
+- 🌱 I’m currently learning **Frontend development with react**
 
 - 💬 Ask me about **Java, Spring boot, Data Structures and Algorithms**
 
